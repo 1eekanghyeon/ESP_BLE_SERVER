@@ -1,0 +1,35 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.portWin": "COM4",
+  "idf.adapterTargetName": "esp32",
+  "idf.openOcdConfigs": [
+    "interface/ftdi/esp32_devkitj_v1.cfg",
+    "target/esp32.cfg"
+  ],
+  "idf.flashType": "UART",
+  "files.associations": {
+    "stdlib.h": "c",
+    "chrono": "c",
+    "functional": "c",
+    "optional": "c",
+    "regex": "c",
+    "system_error": "c",
+    "type_traits": "c",
+    "xlocnum": "c",
+    "xtr1common": "c",
+    "ratio": "c",
+    "array": "c",
+    "tuple": "c",
+    "utility": "c",
+    "esp_bt_main.h": "c",
+    "esp_gatt_common_api.h": "c",
+    "esp_bt_defs.h": "c",
+    "xiosbase": "c",
+    "*.inc": "cpp",
+    "random": "cpp",
+    "algorithm": "c",
+    "format": "c",
+    "xlocale": "c",
+    "xutility": "c"
+  }
+}

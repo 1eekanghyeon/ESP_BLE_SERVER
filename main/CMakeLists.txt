@@ -1,0 +1,5 @@
+set(COMPONENT_REQUIRES )
+set(COMPONENT_PRIV_REQUIRES )
+set(COMPONENT_SRCS "imagedata.cpp" "gatts_demo.cpp" "led_strip_encoder.cpp")
+set(COMPONENT_ADD_INCLUDEDIRS "")
+register_component()
